@@ -158,7 +158,7 @@ graphql-core==2.2.1
 graphql-relay==2.0.1
 greenlet==2.0.1
 h11==0.14.0
-h2==4.1.0
+h2==4.3.0
 hashID==3.1.4
 hiredis==1.0.1
 hpack==4.0.0
