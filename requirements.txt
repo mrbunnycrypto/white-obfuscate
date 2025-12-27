@@ -220,7 +220,7 @@ macholib==1.16.2
 Mako==1.2.4.dev0
 Markdown==3.4.1
 MarkupSafe==2.1.1
-marshmallow==3.18.0
+marshmallow==3.26.2
 marshmallow-sqlalchemy==0.28.1
 masky==0.1.1
 matplotlib==3.6.3
